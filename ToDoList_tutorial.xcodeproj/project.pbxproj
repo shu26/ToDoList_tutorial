@@ -12,6 +12,7 @@
 		10637C74229EB37F00E9D044 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10637C72229EB37F00E9D044 /* Main.storyboard */; };
 		10637C76229EB38100E9D044 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10637C75229EB38100E9D044 /* Assets.xcassets */; };
 		10637C79229EB38100E9D044 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10637C77229EB38100E9D044 /* LaunchScreen.storyboard */; };
+		10637C82229EBA0A00E9D044 /* AddControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10637C81229EBA0A00E9D044 /* AddControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		10637C75229EB38100E9D044 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10637C78229EB38100E9D044 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10637C7A229EB38100E9D044 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10637C81229EBA0A00E9D044 /* AddControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				10637C75229EB38100E9D044 /* Assets.xcassets */,
 				10637C77229EB38100E9D044 /* LaunchScreen.storyboard */,
 				10637C7A229EB38100E9D044 /* Info.plist */,
+				10637C81229EBA0A00E9D044 /* AddControllerViewController.swift */,
 			);
 			path = ToDoList_tutorial;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10637C82229EBA0A00E9D044 /* AddControllerViewController.swift in Sources */,
 				10637C71229EB37F00E9D044 /* ViewController.swift in Sources */,
 				10637C6F229EB37F00E9D044 /* AppDelegate.swift in Sources */,
 			);

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ToDoList_tutorial
 //
-//  Created by 海法修平 on 2019/05/29.
+//  Created by shu26 on 2019/05/29.
 //  Copyright © 2019 Swift-Beginners. All rights reserved.
 //
 
